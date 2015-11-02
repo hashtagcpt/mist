@@ -4,7 +4,7 @@ Mist provides an API for dapp developers to use special features only available 
 
 ## Note for dapp developers
 
-To make you dapp compatible with other browsers, its recommended that you check the `mist` object before you use it:
+To make your dapp compatible with other browsers, its recommended that you check the `mist` object before you use it:
 
 ```js
 if(typeof mist !== 'undefined') {
